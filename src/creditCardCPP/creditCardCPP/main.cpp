@@ -28,9 +28,9 @@ const int MAX_MONTHS = 12;
 int main(int argc, const char * argv[]) {
     
     // Input values
-    double balance = 231.96;
+    double balance = 240.75;
     double payment = 35.00;
-    double charges = 0.00;
+    double charges = 60.00;
     
     // Computed values
     double interest;
